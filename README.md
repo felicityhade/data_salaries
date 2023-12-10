@@ -12,6 +12,10 @@ Package versions can be found in data_salaries.yml
 
 Felicity Hade (felicity_hade@brown.edu)
 
+## Acknowledgements
+
+This project incorporates strategies and code adapted from Andras Zsom (andras_zsom@brown.edu)'s DATA 1030 lecture notes.
+
 ## License
 
 This project is licensed under the MIT License.
